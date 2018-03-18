@@ -1,4 +1,4 @@
-# Symfony Content Management Framework
+# Symfony Content Management Framework - DBAL Implementation
 
 [![Build Status](https://travis-ci.org/symfony-cmf/symfony-cmf-dbal.svg?branch=master)](https://travis-ci.org/symfony-cmf/symfony-cmf-dbal)
 [![Latest Stable Version](https://poser.pugx.org/symfony-cmf/symfony-cmf-dbal/version.png)](https://packagist.org/packages/symfony-cmf/symfony-cmf-dbal)

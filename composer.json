@@ -1,9 +1,9 @@
 {
-  "name": "symfony-cmf/symfony-cmf-dbal",
-  "description": "Meta repository to install dbal implementation of with doctrine/phpcr-dbal.",
-  "type": "library, metapackage",
+  "name": "symfony-cmf/phpcr-dbal-pack",
+  "description": "Meta repository to install dbal implementation of with doctrine/phpcr-dbal-symfony-pack.",
+  "type": "metapackage",
   "require": {
-    "doctrine/phpcr-dbal": "^1.0",
+    "doctrine/phpcr-dbal-symfony-pack": "^1.0",
     "symfony-cmf/core-bundle": "^2.1",
     "symfony-cmf/content-bundle": "^2.1",
     "symfony-cmf/menu-bundle": "^2.2",
@@ -21,7 +21,5 @@
     "branch-alias": {
       "dev-master": "1.0-dev"
     }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }

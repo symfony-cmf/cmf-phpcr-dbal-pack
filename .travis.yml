@@ -7,10 +7,7 @@ cache:
 matrix:
     fast_finish: true
     include:
-        - php: 7.1
-          env: COMPOSER_FLAGS="--prefer-stable --prefer-lowest" DEPENDENCIES="symfony/lts:^2" STABILITY="dev"
-        - php: 7.1
-          env: DEPENDENCIES="symfony/lts:^3" STABILITY="dev"
+          env:  COMPOSER_FLAGS="--prefer-stable --prefer-lowest" DEPENDENCIES="symfony/lts:^3" STABILITY="dev"
         - php: 7.1
           env: DEPENDENCIES="symfony/lts:^4" STABILITY="dev"
         - php: 7.2

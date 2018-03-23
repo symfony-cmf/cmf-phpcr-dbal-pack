@@ -1,5 +1,5 @@
 {
-  "name": "symfony-cmf/phpcr-dbal-pack",
+  "name": "symfony-cmf/cmf-phpcr-dbal-pack",
   "description": "Meta repository to install dbal implementation of with doctrine/phpcr-dbal-symfony-pack.",
   "type": "metapackage",
   "require": {

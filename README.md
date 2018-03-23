@@ -1,8 +1,8 @@
 # Symfony Content Management Framework - DBAL Implementation for PHPCR.
 
-[![Build Status](https://travis-ci.org/symfony-cmf/phpcr-dbal-pack.svg?branch=master)](https://travis-ci.org/symfony-cmf/phpcr-dbal-pack)
-[![Latest Stable Version](https://poser.pugx.org/symfony-cmf/phpcr-dbal-pack/version.png)](https://packagist.org/packages/symfony-cmf/phpcr-dbal-pack)
-[![Total Downloads](https://poser.pugx.org/symfony-cmf/phpcr-dbal-pack/d/total.png)](https://packagist.org/packages/symfony-cmf/phpcr-dbal-pack)
+[![Build Status](https://travis-ci.org/symfony-cmf/cmf-phpcr-dbal-pack.svg?branch=master)](https://travis-ci.org/symfony-cmf/cmf-phpcr-dbal-pack)
+[![Latest Stable Version](https://poser.pugx.org/symfony-cmf/cmf-phpcr-dbal-pack/version.png)](https://packagist.org/packages/symfony-cmf/cmf-phpcr-dbal-pack)
+[![Total Downloads](https://poser.pugx.org/symfony-cmf/cmf-phpcr-dbal-pack/d/total.png)](https://packagist.org/packages/symfony-cmf/cmf-phpcr-dbal-pack)
 
 This package is part of the [Symfony Content Management Framework (CMF)](http://cmf.symfony.com/)
 and licensed under the [MIT License](LICENSE).
@@ -28,8 +28,8 @@ For the install guide and reference, see:
 ## Contributing
 
 Pull requests are welcome. Please see our
-[CONTRIBUTING](https://github.com/symfony-cmf/phpcr-dbal-pack/blob/master/CONTRIBUTING.md)
+[CONTRIBUTING](https://github.com/symfony-cmf/cmf-phpcr-dbal-pack/blob/master/CONTRIBUTING.md)
 guide.
 
 Thanks to
-[everyone who has contributed](https://github.com/symfony-cmf/phpcr-dbal-pack/contributors) already.
+[everyone who has contributed](https://github.com/symfony-cmf/cmf-phpcr-dbal-pack/contributors) already.
